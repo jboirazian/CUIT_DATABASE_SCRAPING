@@ -1,6 +1,8 @@
 # CUIT_DATABASE_SCRAPING
 Base de Datos extraída de https://www.cuitonline.com , más de 26 millones de personas.
 
+![alt text](https://www.cuitonline.com/images/logo-header.png)
+
 ## Como se logró extraer toda esta informacíon ?
 
 esta pagina web que contiene una enorme base de datos de personas de Argentina indexa las personas de la siguiente manera:
