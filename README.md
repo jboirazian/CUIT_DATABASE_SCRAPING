@@ -14,6 +14,10 @@ Hay multiples archivos pero solo nos interesan los que tengan el nombre https://
 
 Finalmente armando una notebook en collab usando python y algunos comandos de linux que facilitan la extraccion de los archivos .gz se puedo armar estos .CSV
 
+## Es util esto para algo ?
+
+Puede ser usado para OSINT , modelos de machine learning y para analisis de datos. Muy probablemente estos datos por si solos no sirvan de mucho , va a ser necesario más infromacíon.
+
 ## Descargar:
 
 * Base de datos completa(INCLUYE PERSONAS HUMANAS Y JURIDICAS)
