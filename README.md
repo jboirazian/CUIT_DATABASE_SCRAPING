@@ -1,5 +1,7 @@
 # CUIT_DATABASE_SCRAPING
-Base de Datos extraída de https://www.cuitonline.com , más de 26 millones de personas.
+Base de Datos extraída de https://www.cuitonline.com , más de 26 millones de personas con CUITs , Nombres completos y DNI.
+Incluye tanto personas fisicas como juridicas 
+
 
 ![alt text](https://www.cuitonline.com/images/logo-header.png)
 
