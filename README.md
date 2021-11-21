@@ -20,7 +20,7 @@ Finalmente armando una notebook en collab usando python y algunos comandos de li
 
 Puede ser usado para OSINT , modelos de machine learning y para analisis de datos. Muy probablemente estos datos por si solos no sirvan de mucho , va a ser necesario más infromacíon.
 
-## Descargar en .CSV :
+## Descargar en .CSV ( Pesan un poco mas de 1 GB cada una):
 
 * Base de datos completa(INCLUYE PERSONAS HUMANAS Y JURIDICAS)
 https://drive.google.com/file/d/1Bhkb121EbSvH80hSNKrmjvLOv0Mxd2co/view?usp=sharing
