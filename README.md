@@ -32,8 +32,11 @@ Hay una gran chance de que multiples personas estén fallecidas ya que existen p
 
 ## Descargar en .CSV ( Pesan un poco mas de 1 GB cada una):
 
-* Base de datos completa(INCLUYE PERSONAS HUMANAS Y JURIDICAS)
-https://drive.google.com/file/d/1Bhkb121EbSvH80hSNKrmjvLOv0Mxd2co/view?usp=sharing
+* Base de datos completa(INCLUYE PERSONAS HUMANAS Y JURIDICAS):
 
-* Base de datos solo personas(DNI , NOMBRE COMPLETO Y CUIT)
-https://drive.google.com/file/d/1VGTBP2pD7mvH1CcC9-ai9Nqe74iGHAth/view?usp=sharing
+https://www.mediafire.com/file/h6zm51yr41flz54/DB_CUIT_22OCT21.csv/file
+
+* Base de datos solo personas(DNI , NOMBRE COMPLETO Y CUIT):
+
+https://www.mediafire.com/file/hh1w659bc5j5hgu/CUITS-MYF.csv/file
+
