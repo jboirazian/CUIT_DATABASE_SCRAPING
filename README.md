@@ -2,6 +2,7 @@
 Base de Datos extraída de https://www.cuitonline.com , más de 27 millones de personas con CUITs , Nombres completos y DNI.
 Incluye tanto personas fisicas como juridicas 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jboirazian/CUIT_DATABASE_SCRAPING/blob/main/CUIT_ONLINE_SCRAPPING.ipynb)
 
 ![alt text](https://www.cuitonline.com/images/logo-header.png)
 
